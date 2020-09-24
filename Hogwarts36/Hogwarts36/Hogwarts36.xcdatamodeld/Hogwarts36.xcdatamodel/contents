@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19G73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="HouseGuess" representedClassName="HouseGuess" syncable="YES" codeGenerationType="class">
+        <attribute name="guessName" optional="YES" attributeType="String"/>
+        <attribute name="house" optional="YES" attributeType="String"/>
+        <attribute name="isVisible" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="HouseGuess" positionX="-45" positionY="27" width="128" height="88"/>
+    </elements>
+</model>
